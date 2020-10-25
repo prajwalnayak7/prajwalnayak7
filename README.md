@@ -1,8 +1,7 @@
 # Hi there 👋
 
-## Backend engineer, soon to be full stack.
-## Currently Software Enginner 1, looking for exciting opportunities.
-
+### Currently Software Engineer 1 with 1.5 years of experience, looking for exciting opportunities.
+### Backend engineer, soon to be full stack.
 
 - 🔭 I’m currently working on Django, Celery, Redis, Docker.
 - 🌱 I’m currently learning Elasticsearch, Vuejs, Kibana, Crypto, Kafka, Jenkins.

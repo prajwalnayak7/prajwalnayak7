@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+## Backend engineer, soon to be full stack.
+## Currently Software Enginner 1, looking for exciting opportunities.
+
 
 - 🔭 I’m currently working on Django, Celery, Redis, Docker.
 - 🌱 I’m currently learning Elasticsearch, Vuejs, Kibana, Crypto, Kafka, Jenkins.
@@ -8,4 +12,6 @@
 - 📫 How to reach me: prajwalnayak7@gmail.com, +919740662196
 - 😄 Pronouns: Prajwal
 - ⚡ Fun fact: I like waring raincoat when there is no rain 🌧 
--->
+
+
+### Thanks for reading :)

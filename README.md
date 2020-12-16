@@ -4,7 +4,7 @@
 ### Backend engineering
 
 - 🔭 I’m currently working on Django, Celery, Redis, Docker.
-- 🌱 I’m currently learning Elasticsearch, Vuejs, Kibana, Crypto, Kafka, Jenkins.
+- 🌱 I’m currently learning Elasticsearch, Vuejs, Golang, Kafka, CI.
 - 👯 I’m looking to collaborate on interesting and impactful projects.
 - 🤔 I’m looking for help with career development.
 - 💪🏻 When I look at the destination, the distance is no longer an impediment.

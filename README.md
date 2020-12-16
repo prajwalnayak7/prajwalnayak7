@@ -10,7 +10,7 @@
 - 💪🏻 When I look at the destination, the distance is no longer an impediment.
 - 💬 Ask me about backend engineering 💻, finance 💵, trips 🏍, spirituality 🧘🏻.
 
-- 📫 How to reach me: prajwalnayak7@gmail.com, +919740662196, [![Twitter][1.2]][1] [![LinkedIn][3.2]][3]
+- 📫 How to reach me: prajwalnayak7@gmail.com, +919740662196, [![Twitter][1.1]][1] [![LinkedIn][2.1]][2]
 - ⚡ Fun fact: I like wearing a raincoat when there is no rain 🌧 
 
 
@@ -18,8 +18,8 @@
 ### Feel free to reach out 🤝
 
 
-[1.2]: http://i.imgur.com/wWzX9uB.png
-[2.2]: https://imgur.com/gallery/HT2w1
+[1.1]: http://i.imgur.com/wWzX9uB.png
+[2.1]: https://imgur.com/gallery/HT2w1
 
 [1]: https://twitter.com/prajwalsn
 [2]: https://www.linkedin.com/in/psn/

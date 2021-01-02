@@ -17,6 +17,7 @@
 ### Thanks for reading :)
 ### Feel free to reach out 🤝
 
+[Portfolio / Blog](https://prajwalnayak7.github.io/)
 
 [1.1]: http://i.imgur.com/wWzX9uB.png
 [2.1]: https://imgur.com/gallery/HT2w1

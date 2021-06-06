@@ -1,7 +1,7 @@
 # Hi there 👋
 
-### Currently Software Engineer with about 2 years of experience, looking for exciting opportunities.
-### Backend engineering
+### Software Engineer (Backend) with 2+ years of work experience, 
+#### Open for interviews, working with startups of any stage, freelancing, exploring opportunities. (Anywhere, Remote)
 
 - 🔭 I’m currently working with Django, MySQL, Celery, Redis, Docker.
 - 🌱 I’m currently learning GO, Elasticsearch and Kafka.

@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### Software Engineer (Backend) with 2+ years of work experience, 
+### Software Engineer (Backend) with ~3 years of work experience, 
 #### Open for interviews, working with startups of any stage, freelancing, exploring opportunities. (Anywhere, Remote)
 
 - 🔭 I’m currently working with Django, MySQL, Celery, Redis, Docker.
@@ -16,5 +16,3 @@
 
 ### Thanks for reading :)
 ### Feel free to reach out 🤝
-
-[Portfolio / Blog](https://prajwalnayak7.github.io/)

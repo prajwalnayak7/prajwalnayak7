@@ -1,10 +1,10 @@
 # Hi there 👋
 
-### Software Engineer (Backend + System Architecture) with 4 years of work experience, 
+### Software Engineer (Frontend + Backend + System Architecture) with 5+ years of professional work experience, 
 #### Open for interviews, working with startups of any stage, freelancing, exploring opportunities. (Anywhere, Remote)
 
 - 🔭 I’m currently working with Go, AWS (lambda, ec2, cloudformation, S3, dynamodb, sqs, etc), Django, MySQL, Redis, Docker.
-- 🌱 I’m currently learning Kafka, Kong, VPC networking.
+- 🌱 I’m currently learning Kubernetes and MLOps.
 - 👯 I’m looking to collaborate on interesting and impactful projects.
 - 🤔 I’m looking for mentorship and offering the same.
 - 💪🏻 When I look at the destination, the distance is no longer an impediment.

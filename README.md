@@ -1,4 +1,4 @@
 # Hi there 👋
 
-[LinkedIn](https://www.linkedin.com/in/psn/)
+Reachout: [LinkedIn](https://www.linkedin.com/in/psn/)
 
